@@ -1,20 +1,20 @@
 # Async Python application
 
-aioapp is a Python library for simple and lightweight application wrapper.
+pyaioapp is a Python library for simple and lightweight application wrapper.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install aioapp.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pyaioapp.
 
 ```bash
-pip install aioapp
+pip install pyaioapp
 ```
 
 ## Usage
 
 ```python
 from asyncio import get_event_loop, AbstractEventLoop
-from aioapp import AsyncApplication
+from pyaioapp import AsyncApplication
 from aiohttp.web import Application, run_app
 from typing import Dict as Container, Any
 

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aioapp"
+name = "pyaioapp"
 version = "1.0.0"
 description = "Simple and lightweight application wrapper."
 license = "MIT"
