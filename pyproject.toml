@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyaioapp"
-version = "1.0.0"
+version = "1.0.1"
 description = "Simple and lightweight application wrapper."
 license = "MIT"
 authors = ["ticdenis <denisnavarroalcaide@outlook.es>"]
